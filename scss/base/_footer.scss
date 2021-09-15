@@ -1,0 +1,54 @@
+footer {
+    background-color: black;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+  .deco-footer {
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 25px;
+}
+  
+.logo2 {
+    width: 15%;
+    height: 15%;
+}
+  
+ .wps:hover {
+    transform: scale(1.5);
+}
+ /*incorporacion box model*/
+ .wps { 
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 3%;
+}
+.interes-envio-pais  {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    padding-top: 10px;
+   
+}
+.promocion {
+    padding-bottom: 20px;
+    padding-top: 20px;
+} 
+.interes, .envio, .pais {
+    text-align: center;
+}
+
+.anaheim-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 13px;
+    padding-top: 30px;
+}
+.img-anaheim {
+    width: 110%;
+}

@@ -1,0 +1,11 @@
+.section-campera {
+    @extend %display
+}
+
+.img-cam:hover {
+    @extend %hover
+}
+
+.img-cam {
+    @extend %padding
+}

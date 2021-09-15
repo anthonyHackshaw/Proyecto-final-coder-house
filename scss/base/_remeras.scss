@@ -1,0 +1,11 @@
+.section-remeras {
+    @extend %display
+}
+
+.rem-img:hover {
+    @extend %hover
+}
+
+.rem-img {
+    @extend %padding
+}

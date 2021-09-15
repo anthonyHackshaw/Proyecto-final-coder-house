@@ -1,0 +1,38 @@
+
+
+.principal-header{
+
+    background-color: black;
+}
+.navbar-brand{
+     padding-left: 110px;
+}
+
+.logo-principal {
+    width: 15%;
+ }
+ .logo-principal:hover {
+     transform: scale(1.1);
+ }
+ .nav-link, .dropdown-menu {
+     color: white;
+ }
+ .nav-link:hover {
+    transform: scale(1.1);
+    color: white;
+}
+.dropdown-menu{
+    background-color: black;
+   
+}
+.dropdown-item{
+    color: white;
+}
+
+ .btn {
+     color: white;
+ }
+
+.buscador {
+    padding-right: 150px;
+}

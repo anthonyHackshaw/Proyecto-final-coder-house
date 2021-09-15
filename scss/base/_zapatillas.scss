@@ -1,0 +1,15 @@
+.section-zapatillas {
+     
+    padding-right: 10px;
+     @extend %display
+ }
+
+    
+     .img-zap:hover{
+         @extend %hover
+ }
+
+       .img-zap {
+        @extend  %padding
+  
+ }

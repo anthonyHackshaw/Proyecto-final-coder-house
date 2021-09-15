@@ -1,0 +1,14 @@
+.section-sale {
+    margin: 50px 200px;
+     @extend %display
+     }
+
+    
+     .img-sale:hover{
+         @extend %hover
+ }
+
+       .img-sale {
+        @extend  %padding
+  
+ }

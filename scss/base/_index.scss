@@ -1,0 +1,72 @@
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(14, 13, 13);
+   word-spacing: 10px;
+    color: white;
+   margin-top: 10px;
+}
+
+h2 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 25px;
+   text-align: center;
+   text-transform: uppercase;
+   background-color: rgb(10, 10, 10);
+   word-spacing: 10px;
+   color: white;
+   margin-top: 30px;
+}
+.anaheim-container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 13px;
+    padding-top: 30px;
+}
+
+.img-anaheim {
+    width: 100%;
+}
+.imagenes-menu-sale { 
+       
+    height: 700px;
+   margin-left: 90px;
+   margin-right: 90px;
+   display: flex;
+   justify-content:space-evenly;
+    align-items: center;
+}
+.tex-img, .precio {
+    display: flex;
+    justify-content: space-around;
+   
+}
+.tex-img {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.precio {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 80px;
+}
+
+.preciosale {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    text-decoration: line-through;
+     }
+
+     .img-sale-p {
+        width: 300px;
+        padding-bottom: 20px;
+       }
+
+       .img-sale-p:hover {
+   
+        padding-bottom: 20px;
+        transform: scale(1.1); 
+     }
